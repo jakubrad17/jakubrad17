@@ -42,7 +42,7 @@
       <a href="https://nextjs.org/">
         <img
           width="45"
-          src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"
+          src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/254798345-5f8c622c-c217-4649-b0a9-7e0ee24bd704.png"
           alt="Next.js"
           title="Next.js"
         />
