@@ -151,14 +151,12 @@
           title="GraphQL"
         />
       </a>
-
       <img
         width="45"
         src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"
         alt="REST"
         title="REST"
       />
-
       <a href="https://www.postman.com/" target="_blank">
         <img
           width="45"
