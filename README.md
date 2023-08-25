@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">
-  I have a deep passion for coding that drives my creative journey in the world of software development.
-</h3>
-<h3 align="center">
- I live in Kraków.
+  I have a deep passion for coding that drives my creative journey in the world of software development. <br/> I live in Kraków.
 </h3>
 
+<br/> 
 💬 Ask me about **anything you want!** 
+<br/> 
 
 <h3 align="left">Languages:</h3>
 
@@ -20,7 +19,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img width="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	  </a>
- <a href="https://nextjs.org/" target="_blank">
+ <a href="https://nextjs.org/" >
 <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
 	  </a>
   <a href="https://www.gatsbyjs.com/" target="_blank">
