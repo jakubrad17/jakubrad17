@@ -60,9 +60,9 @@
   <a href="https://graphql.org/" target="_blank">		 
   <img width="45" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 	  </a>
- <a href="" target="_blank">		 
+	 
   <img width="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
-  </a>
+  
 <a href="https://www.postman.com/" target="_blank">
 <img width="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
   </a>
@@ -71,13 +71,13 @@
 <h3 align="left">Tools:</h3>  
 
 <div>
-<a href=https://code.visualstudio.com/"" target="_blank">
+<a href=https://code.visualstudio.com/" target="_blank">
 	<img width="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
   </a>
 <a href="https://git-scm.com/" target="_blank">
 	<img width="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
   </a>
-<a href=https://github.com/"" target="_blank">	
+<a href=https://github.com/" target="_blank">	
 <img width="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
 	  </a>
 <a href="https://bitbucket.org/" target="_blank">
