@@ -9,7 +9,7 @@
 
 <br/> 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 <div>
   <a href="https://react.dev/" target="_blank">
@@ -69,11 +69,6 @@
 <a href="https://www.postman.com/" target="_blank">
 <img width="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
   </a>
-</div>
-
-<h3 align="left">Tools:</h3>  
-
-<div>
 <a href="https://code.visualstudio.com/" target="_blank">
 	<img width="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
   </a>
@@ -86,8 +81,8 @@
 <a href="https://bitbucket.org/" target="_blank">
 <img width="45" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/>
 	  </a>
-
 </div>
+
 
 
 
